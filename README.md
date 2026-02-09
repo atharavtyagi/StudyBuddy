@@ -1,5 +1,7 @@
 # StudyBuddy - Smart Study Planner
 
+Deployed Link: https://github.com/atharavtyagi/StudyBuddy
+
 ## 📌 Project Overview
 StudyBuddy is a Smart Study Planner web application designed to help students organize their academic life efficiently. Built using **HTML5, CSS3, and Vanilla JavaScript**, it features a comprehensive suite of tools including subject management, schedule planning, task tracking, and progress analytics. All data is persisted locally using browser **LocalStorage**, ensuring your information is saved even after refreshing the page or restarting the browser.
 
@@ -58,5 +60,6 @@ smart-study-planner/
 2. Open the folder in your file explorer.
 3. Double-click `index.html` to open it in your default web browser.
    - Alternatively, use a local server (e.g., VS Code "Live Server" extension) for a better development experience.
+
 
 
